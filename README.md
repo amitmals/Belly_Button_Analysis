@@ -1,2 +1,2 @@
-# Belly_Button_Analysis
+# Belly Button Analysis
 Plotly.js, Python, Flask, Heroku, HTML
