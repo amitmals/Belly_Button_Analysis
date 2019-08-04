@@ -9,7 +9,7 @@ Plotly.js, Python, Flask, Heroku, HTML
 
 Use Plotly.js to build interactive charts for our dashboard.
 
-<img width="462" alt="Screen Shot 2019-08-04 at 1 05 45 AM" src="https://user-images.githubusercontent.com/46534353/62421282-1d80d000-b654-11e9-91a0-4f00921ba3f4.png">
+<img width="462" alt="Screen Shot 2019-08-04 at 1 05 45 AM" src="https://user-images.githubusercontent.com/46534353/62421282-1d80d000-b654-11e9-91a0-4f00921ba3f4.png width=10">
 <img width="462" alt="Screen Shot 2019-08-04 at 1 05 54 AM" src="https://user-images.githubusercontent.com/46534353/62421284-1f4a9380-b654-11e9-8d50-25a2ac315d58.png">
 <img width="462" alt="Screen Shot 2019-08-04 at 1 06 14 AM" src="https://user-images.githubusercontent.com/46534353/62421285-21145700-b654-11e9-93e6-79f43be6d294.png">
 
