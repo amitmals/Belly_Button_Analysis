@@ -27,3 +27,6 @@ Use Plotly.js to build interactive charts for our dashboard.
 ## Step 2: Heroku
 
 Deployed the  Flask app to Heroku
+https://dashboard.heroku.com/apps/secret-plains-91963
+<img width="1680" alt="Screen Shot 2019-08-10 at 6 59 40 PM" src="https://user-images.githubusercontent.com/46534353/62828677-18b2a380-bba1-11e9-9fe7-5ea0b8ff416e.png">
+
